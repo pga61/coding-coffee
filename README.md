@@ -11,6 +11,8 @@
 * [Status](#status)
 * [Références](#Références)
 * [Contact](#contact)
+* [TODO's](#Todo-list)
+
 
 ## Contexte-du-projet
 **Création d'un site vitrine pour une association souhaitant présenter son actualité et ses initiatives.**
@@ -61,3 +63,13 @@ Dépôt Github du projet : [ici](https://github.com/pga61/coding-coffee)
 
 ## Contact
 Coder par [@Philippe](https://philippe-gaspel.me) - feel free to contact me!
+
+## Todo-list
++ Add more pages detail to complete Event section
++ Implement back-end server features :
+  + contact form controller
+  + blog posts API
+  + administration console
+  + ...  
+
+
