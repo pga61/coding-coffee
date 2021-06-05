@@ -60,4 +60,4 @@ Démo en ligne : [ici](https://codingcoffee.netlify.app/)
 Dépôt Github du projet : [ici](https://github.com/pga61/coding-coffee)
 
 ## Contact
-Coder par [@Philippe](https://philippe-gaspel.me) - feel free to contact me!
+Coder par [@Philippe](http://about.me/philippegaspel) - feel free to contact me!
